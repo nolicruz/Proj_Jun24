@@ -1,0 +1,95 @@
+﻿Criteria
+
+
+Professionalism, Attitude and Motivation
+Skill and Experience
+Communication
+Career Aspirations
+/*-------------------------------------------------------------------*/
+
+
+PROFESSIONALISM AND ATTITUDE
+
+
+A:Why on the job mkt; why leave your current job
+A:Describe the kind of boss that gave you the best motivation
+A:How did you contribute to the success of your previous work unit
+A:Why did you leave your previous jobs
+What part of a developer's duty would you rather not do : 
+        Interview;Analysis;Estimation;Architec;GUI Design;Requirements Doc;Test Docs;Testing; Integration
+
+
+/*-------------------------------------------------------------------*/
+
+
+SKILL and EXPERIENCE
+
+
+A:List of accomp in the past jobs
+Talk about past projects
+        In what environment bus was it deployed
+        How were the people working on it organized
+        What tech and architectures used?
+        Successful in prod?
+        What lessons did you learn from it?
+Do you have a Website we can view?
+Dialog about a problem and a probable solution
+Critique on something
+
+
+/*-------------------------------------------------------------------*/
+
+
+TIME FRAME TO COMPLETION of a web
+    Home| About| Products/Services| Order| Contact| Resources| Free Newsletter|
+What was the last language you learned?
+What resources did you have for learning, how long?
+What was your primary motivation for learn it?
+What do you think is the worst platform introduced in recent years, why?
+When stuck, who can provide the best advice?
+Object Model of a company
+
+
+A:Desc typical workday
+A:Performance expectations; If hired, What is expected of you
+A:Strong points
+/*-------------------------------------------------------------------*/
+
+
+
+
+COMMUNICATION
+
+
+A: How often do you communicate when developing? In what instances is there a need to initiate communication? To whom should you communicate?
+A: How often do you make a report of activities? In what instances is there a need to initiate communication? To whom should you communicate?
+A:How often do you communicate when there is a blocker?
+
+
+/*-------------------------------------------------------------------*/
+
+
+
+
+***CAREER AND MOTIVATION
+
+
+A:Why do you find attractive about the company - Jway
+A:How can the company contribute to your success
+A:What can you contribute to company's success - Experience, loyalty, diligence;
+A:Personal Dev't;Share personal Development Plan
+A:How do you see yourself 5 yrsWhat motivates yo to work hard?
+
+
+/*-------------------------------------------------------------------*/
+/*-------------------------------------------------------------------*/
+
+
+
+
+*** FINAL
+A:Do you find a technical role more comfortable than a leadership role
+A:Why should the co. hire you - Do you have a 90-day action plan
+
+
+/*-------------------------------------------------------------------*/
